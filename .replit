@@ -1,1 +1,2 @@
-language = "bash"
+langage = "bash"
+run = "javac Chapter2_variable/Constant&Literal/Constant.java && cd Chapter2_variable/Constant&Literal && java Constant"
