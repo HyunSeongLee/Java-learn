@@ -20,8 +20,8 @@ class Literal {
 
     // empty string
     String str = "";
-    char ch = ' ';
-    String name = new String("Java"); 
+    char letter = ' ';
+   
 
     
   }
